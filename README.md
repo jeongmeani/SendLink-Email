@@ -1,5 +1,7 @@
 # SendLink-Email
 send link made by python to my e-mail
+Author = Kim Jeongmin
+
 # Purpose
 when send some files through e-mail, it's quite inconvenient to make link and send e-mail.
 so this code if for that.
